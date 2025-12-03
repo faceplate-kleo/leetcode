@@ -9,3 +9,11 @@ version = "0.1.0"
 [[package]]
 name = "lc-5"
 version = "0.1.0"
+
+[[package]]
+name = "lc-7"
+version = "0.1.0"
+
+[[package]]
+name = "lc-8"
+version = "0.1.0"
